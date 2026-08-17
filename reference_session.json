@@ -1,0 +1,3817 @@
+{
+  "session_id": "7bdfbf17-af8c-4c33-947c-ae8f2a5e5d1e",
+  "started_at_ms": 1786788882608,
+  "device": {
+    "manufacturer": "samsung",
+    "model": "SM-A525F",
+    "sdk_int": 34,
+    "screen": {
+      "width_px": 1080,
+      "height_px": 2400
+    },
+    "app_version": "0.1.0"
+  },
+  "gestures": [
+    {
+      "gesture_id": 1,
+      "events": [
+        {
+          "action": "down",
+          "event_time_ms": 267233097,
+          "proc_time_ns": 731360946795607,
+          "x": 284.50195,
+          "y": 762.1953,
+          "pressure": 1.0,
+          "size": 0.050980397,
+          "touch_major": 5.522461,
+          "touch_minor": 5.522461,
+          "history": []
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267233126,
+          "proc_time_ns": 731360976098524,
+          "x": 284.50195,
+          "y": 762.78125,
+          "pressure": 1.0,
+          "size": 0.050980397,
+          "touch_major": 5.522461,
+          "touch_minor": 5.522461,
+          "history": []
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267233138,
+          "proc_time_ns": 731360987609774,
+          "x": 284.50195,
+          "y": 765.209,
+          "pressure": 1.0,
+          "size": 0.050980397,
+          "touch_major": 5.522461,
+          "touch_minor": 5.522461,
+          "history": [
+            {
+              "event_time_ms": 267233132,
+              "x": 284.50195,
+              "y": 763.9531,
+              "pressure": 1.0,
+              "size": 0.050980397
+            },
+            {
+              "event_time_ms": 267233137,
+              "x": 284.50195,
+              "y": 765.125,
+              "pressure": 1.0,
+              "size": 0.050980397
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267233149,
+          "proc_time_ns": 731360998395190,
+          "x": 284.79004,
+          "y": 766.35156,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267233143,
+              "x": 284.50195,
+              "y": 765.71094,
+              "pressure": 1.0,
+              "size": 0.050980397
+            },
+            {
+              "event_time_ms": 267233149,
+              "x": 284.76562,
+              "y": 766.2969,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267233171,
+          "proc_time_ns": 731361026011492,
+          "x": 284.76562,
+          "y": 769.8125,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267233154,
+              "x": 284.76562,
+              "y": 767.46875,
+              "pressure": 1.0,
+              "size": 0.050980397
+            },
+            {
+              "event_time_ms": 267233160,
+              "x": 284.76562,
+              "y": 768.0547,
+              "pressure": 1.0,
+              "size": 0.050980397
+            },
+            {
+              "event_time_ms": 267233165,
+              "x": 284.76562,
+              "y": 769.22656,
+              "pressure": 1.0,
+              "size": 0.050980397
+            }
+          ]
+        },
+        {
+          "action": "up",
+          "event_time_ms": 267233176,
+          "proc_time_ns": 731361026301596,
+          "x": 284.76562,
+          "y": 769.8125,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": []
+        }
+      ]
+    },
+    {
+      "gesture_id": 2,
+      "events": [
+        {
+          "action": "down",
+          "event_time_ms": 267248252,
+          "proc_time_ns": 731376102145237,
+          "x": 91.49414,
+          "y": 581.1406,
+          "pressure": 1.0,
+          "size": 0.027450982,
+          "touch_major": 2.9736328,
+          "touch_minor": 2.9736328,
+          "history": []
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248265,
+          "proc_time_ns": 731376118998362,
+          "x": 91.49414,
+          "y": 581.1406,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267248261,
+              "x": 91.49414,
+              "y": 581.1406,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248316,
+          "proc_time_ns": 731376166027684,
+          "x": 91.49414,
+          "y": 581.1406,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": []
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248328,
+          "proc_time_ns": 731376177055966,
+          "x": 92.396484,
+          "y": 580.47266,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248327,
+              "x": 92.28516,
+              "y": 580.5547,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248339,
+          "proc_time_ns": 731376188361955,
+          "x": 94.25781,
+          "y": 579.7754,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248333,
+              "x": 93.07617,
+              "y": 579.96875,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248338,
+              "x": 93.86719,
+              "y": 579.96875,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248351,
+          "proc_time_ns": 731376200054716,
+          "x": 100.98242,
+          "y": 576.71094,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248344,
+              "x": 96.240234,
+              "y": 578.7969,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248349,
+              "x": 100.19531,
+              "y": 577.03906,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248362,
+          "proc_time_ns": 731376210676695,
+          "x": 108.41113,
+          "y": 573.91504,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248355,
+              "x": 104.41406,
+              "y": 575.28125,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248361,
+              "x": 108.10547,
+              "y": 574.1094,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248373,
+          "proc_time_ns": 731376221773518,
+          "x": 111.81055,
+          "y": 571.58984,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248366,
+              "x": 109.95117,
+              "y": 572.9375,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248372,
+              "x": 111.5332,
+              "y": 571.7656,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248384,
+          "proc_time_ns": 731376232871591,
+          "x": 114.728516,
+          "y": 569.8203,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248377,
+              "x": 113.37891,
+              "y": 570.59375,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267248383,
+              "x": 114.43359,
+              "y": 570.0078,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248395,
+          "proc_time_ns": 731376244057737,
+          "x": 117.80469,
+          "y": 567.48047,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248389,
+              "x": 116.2793,
+              "y": 568.83594,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248394,
+              "x": 117.59766,
+              "y": 567.66406,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248406,
+          "proc_time_ns": 731376255191487,
+          "x": 120.493164,
+          "y": 565.1289,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248400,
+              "x": 118.916016,
+              "y": 566.4922,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248405,
+              "x": 120.234375,
+              "y": 565.3203,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248417,
+          "proc_time_ns": 731376266315237,
+          "x": 123.5918,
+          "y": 562.8047,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248411,
+              "x": 121.81641,
+              "y": 564.14844,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248416,
+              "x": 123.39844,
+              "y": 562.97656,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248428,
+          "proc_time_ns": 731376277332997,
+          "x": 126.7959,
+          "y": 560.5459,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267248422,
+              "x": 124.7168,
+              "y": 561.8047,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248428,
+              "x": 126.5625,
+              "y": 560.6328,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248439,
+          "proc_time_ns": 731376288476955,
+          "x": 129.71484,
+          "y": 558.6885,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267248433,
+              "x": 128.14453,
+              "y": 560.0469,
+              "pressure": 1.0,
+              "size": 0.04705883
+            },
+            {
+              "event_time_ms": 267248439,
+              "x": 129.46289,
+              "y": 558.875,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248451,
+          "proc_time_ns": 731376299681643,
+          "x": 133.15039,
+          "y": 555.84863,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267248444,
+              "x": 131.04492,
+              "y": 557.7031,
+              "pressure": 1.0,
+              "size": 0.04705883
+            },
+            {
+              "event_time_ms": 267248450,
+              "x": 132.89062,
+              "y": 555.9453,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248462,
+          "proc_time_ns": 731376310803726,
+          "x": 136.3418,
+          "y": 554.00586,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248455,
+              "x": 134.47266,
+              "y": 555.3594,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248461,
+              "x": 136.05469,
+              "y": 554.1875,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248473,
+          "proc_time_ns": 731376321962789,
+          "x": 140.10156,
+          "y": 551.6465,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248466,
+              "x": 137.90039,
+              "y": 553.0156,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248472,
+              "x": 139.7461,
+              "y": 551.84375,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248484,
+          "proc_time_ns": 731376333012789,
+          "x": 144.27539,
+          "y": 549.2412,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248478,
+              "x": 141.85547,
+              "y": 550.6719,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248483,
+              "x": 143.96484,
+              "y": 549.5,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248495,
+          "proc_time_ns": 731376344178934,
+          "x": 148.56934,
+          "y": 546.8701,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248489,
+              "x": 146.07422,
+              "y": 547.7422,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248494,
+              "x": 148.1836,
+              "y": 547.15625,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248506,
+          "proc_time_ns": 731376355439976,
+          "x": 153.58496,
+          "y": 543.44727,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248500,
+              "x": 150.55664,
+              "y": 545.39844,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248505,
+              "x": 153.19336,
+              "y": 543.6406,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248517,
+          "proc_time_ns": 731376366374039,
+          "x": 158.19824,
+          "y": 540.5469,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267248511,
+              "x": 155.5664,
+              "y": 542.46875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248517,
+              "x": 157.93945,
+              "y": 540.71094,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248528,
+          "proc_time_ns": 731376377466851,
+          "x": 162.54004,
+          "y": 538.08496,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248522,
+              "x": 159.78516,
+              "y": 539.53906,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248528,
+              "x": 162.1582,
+              "y": 538.3672,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248540,
+          "proc_time_ns": 731376388596278,
+          "x": 166.88574,
+          "y": 535.7412,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248533,
+              "x": 164.53125,
+              "y": 536.6094,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248539,
+              "x": 166.37695,
+              "y": 536.02344,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248551,
+          "proc_time_ns": 731376399672528,
+          "x": 172.625,
+          "y": 532.89453,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248544,
+              "x": 169.54102,
+              "y": 534.2656,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248550,
+              "x": 172.17773,
+              "y": 533.09375,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248562,
+          "proc_time_ns": 731376410967216,
+          "x": 178.00293,
+          "y": 530.44336,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248555,
+              "x": 174.81445,
+              "y": 531.9219,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248561,
+              "x": 177.45117,
+              "y": 530.75,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248573,
+          "proc_time_ns": 731376422011486,
+          "x": 183.89355,
+          "y": 527.6338,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248567,
+              "x": 180.61523,
+              "y": 528.9922,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248572,
+              "x": 183.51562,
+              "y": 527.8203,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248584,
+          "proc_time_ns": 731376433126643,
+          "x": 189.5791,
+          "y": 525.1836,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248578,
+              "x": 185.88867,
+              "y": 526.64844,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248583,
+              "x": 189.05273,
+              "y": 525.47656,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248595,
+          "proc_time_ns": 731376444263361,
+          "x": 195.26074,
+          "y": 521.7803,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248589,
+              "x": 192.2168,
+              "y": 523.71875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248594,
+              "x": 194.85352,
+              "y": 521.96094,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248606,
+          "proc_time_ns": 731376455465914,
+          "x": 200.92578,
+          "y": 519.41895,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248600,
+              "x": 197.49023,
+              "y": 520.78906,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248605,
+              "x": 200.39062,
+              "y": 519.6172,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248618,
+          "proc_time_ns": 731376466533205,
+          "x": 206.91797,
+          "y": 516.501,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248611,
+              "x": 203.55469,
+              "y": 518.4453,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248617,
+              "x": 206.45508,
+              "y": 516.6875,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248629,
+          "proc_time_ns": 731376477655445,
+          "x": 213.06738,
+          "y": 514.15625,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248622,
+              "x": 209.35547,
+              "y": 515.5156,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248628,
+              "x": 212.51953,
+              "y": 514.34375,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248640,
+          "proc_time_ns": 731376488734299,
+          "x": 219.59277,
+          "y": 511.23633,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267248633,
+              "x": 215.94727,
+              "y": 513.1719,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267248639,
+              "x": 219.11133,
+              "y": 511.41406,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248651,
+          "proc_time_ns": 731376499832111,
+          "x": 226.05371,
+          "y": 508.75488,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248644,
+              "x": 222.27539,
+              "y": 510.2422,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248650,
+              "x": 225.43945,
+              "y": 509.0703,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248662,
+          "proc_time_ns": 731376510926486,
+          "x": 233.08105,
+          "y": 505.94727,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248655,
+              "x": 228.86719,
+              "y": 507.3125,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248661,
+              "x": 232.5586,
+              "y": 506.14062,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248673,
+          "proc_time_ns": 731376522122111,
+          "x": 239.98535,
+          "y": 503.61523,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248666,
+              "x": 235.72266,
+              "y": 504.96875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248672,
+              "x": 239.41406,
+              "y": 503.79688,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248684,
+          "proc_time_ns": 731376533173466,
+          "x": 247.4541,
+          "y": 501.14062,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248678,
+              "x": 243.10547,
+              "y": 502.625,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248683,
+              "x": 246.79688,
+              "y": 501.45312,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248695,
+          "proc_time_ns": 731376544340705,
+          "x": 254.82715,
+          "y": 498.31836,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248689,
+              "x": 250.48828,
+              "y": 499.6953,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248694,
+              "x": 254.17969,
+              "y": 498.52344,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248707,
+          "proc_time_ns": 731376555542632,
+          "x": 262.48828,
+          "y": 495.88477,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248700,
+              "x": 257.8711,
+              "y": 497.35156,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248706,
+              "x": 261.82617,
+              "y": 496.1797,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248718,
+          "proc_time_ns": 731376566649611,
+          "x": 270.44727,
+          "y": 492.97168,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248711,
+              "x": 265.78125,
+              "y": 494.42188,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267248717,
+              "x": 269.73633,
+              "y": 493.25,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248729,
+          "proc_time_ns": 731376577742163,
+          "x": 279.14355,
+          "y": 489.4209,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267248722,
+              "x": 274.21875,
+              "y": 491.4922,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267248728,
+              "x": 278.4375,
+              "y": 489.73438,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248740,
+          "proc_time_ns": 731376588826747,
+          "x": 287.66797,
+          "y": 486.59766,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248733,
+              "x": 282.39258,
+              "y": 487.97656,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267248739,
+              "x": 286.875,
+              "y": 486.8047,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248751,
+          "proc_time_ns": 731376600163778,
+          "x": 296.97266,
+          "y": 484.15625,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248744,
+              "x": 291.35742,
+              "y": 485.6328,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248750,
+              "x": 296.10352,
+              "y": 484.46094,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248762,
+          "proc_time_ns": 731376611196955,
+          "x": 307.0205,
+          "y": 480.76367,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267248756,
+              "x": 301.11328,
+              "y": 482.70312,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267248761,
+              "x": 306.12305,
+              "y": 480.9453,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248773,
+          "proc_time_ns": 731376622277111,
+          "x": 318.042,
+          "y": 477.17383,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248767,
+              "x": 311.92383,
+              "y": 479.77344,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248772,
+              "x": 317.19727,
+              "y": 477.4297,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248784,
+          "proc_time_ns": 731376633329247,
+          "x": 330.1162,
+          "y": 473.6084,
+          "pressure": 1.0,
+          "size": 0.039215688,
+          "touch_major": 4.248047,
+          "touch_minor": 4.248047,
+          "history": [
+            {
+              "event_time_ms": 267248778,
+              "x": 322.99805,
+              "y": 475.67188,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248783,
+              "x": 329.0625,
+              "y": 473.91406,
+              "pressure": 1.0,
+              "size": 0.039215688
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248796,
+          "proc_time_ns": 731376644520705,
+          "x": 341.6494,
+          "y": 469.51367,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248789,
+              "x": 335.12695,
+              "y": 472.15625,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267248795,
+              "x": 340.66406,
+              "y": 469.8125,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248807,
+          "proc_time_ns": 731376655646122,
+          "x": 352.58008,
+          "y": 465.43066,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267248800,
+              "x": 346.46484,
+              "y": 468.0547,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267248806,
+              "x": 351.73828,
+              "y": 465.71094,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248818,
+          "proc_time_ns": 731376666863101,
+          "x": 363.35547,
+          "y": 462.42285,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248811,
+              "x": 357.01172,
+              "y": 463.95312,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248817,
+              "x": 362.54883,
+              "y": 462.78125,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248829,
+          "proc_time_ns": 731376677987372,
+          "x": 373.7666,
+          "y": 458.53027,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248822,
+              "x": 367.82227,
+              "y": 460.4375,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248828,
+              "x": 373.0957,
+              "y": 458.6797,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248840,
+          "proc_time_ns": 731376689036434,
+          "x": 384.82715,
+          "y": 455.34082,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267248834,
+              "x": 378.36914,
+              "y": 457.5078,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248839,
+              "x": 383.90625,
+              "y": 455.75,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248851,
+          "proc_time_ns": 731376700141747,
+          "x": 395.65137,
+          "y": 451.3369,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248845,
+              "x": 389.1797,
+              "y": 453.40625,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248850,
+              "x": 394.7168,
+              "y": 451.64844,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248862,
+          "proc_time_ns": 731376711377841,
+          "x": 406.4668,
+          "y": 447.71484,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248856,
+              "x": 399.99023,
+              "y": 449.89062,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267248861,
+              "x": 405.52734,
+              "y": 448.1328,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248873,
+          "proc_time_ns": 731376722588830,
+          "x": 416.94434,
+          "y": 443.0586,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267248867,
+              "x": 410.80078,
+              "y": 445.78906,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267248873,
+              "x": 416.07422,
+              "y": 443.4453,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248885,
+          "proc_time_ns": 731376733537163,
+          "x": 428.36328,
+          "y": 438.29883,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267248878,
+              "x": 421.34766,
+              "y": 441.10156,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267248884,
+              "x": 427.4121,
+              "y": 438.7578,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248896,
+          "proc_time_ns": 731376744626799,
+          "x": 440.8418,
+          "y": 432.4375,
+          "pressure": 1.0,
+          "size": 0.039215688,
+          "touch_major": 4.248047,
+          "touch_minor": 4.248047,
+          "history": [
+            {
+              "event_time_ms": 267248889,
+              "x": 433.47656,
+              "y": 435.82812,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267248895,
+              "x": 439.8047,
+              "y": 432.89844,
+              "pressure": 1.0,
+              "size": 0.039215688
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248907,
+          "proc_time_ns": 731376755854455,
+          "x": 454.68262,
+          "y": 426.4629,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267248900,
+              "x": 446.39648,
+              "y": 429.96875,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267248906,
+              "x": 453.51562,
+              "y": 427.03906,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248918,
+          "proc_time_ns": 731376767040080,
+          "x": 469.1455,
+          "y": 419.63672,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248911,
+              "x": 460.63477,
+              "y": 423.52344,
+              "pressure": 1.0,
+              "size": 0.04705883
+            },
+            {
+              "event_time_ms": 267248917,
+              "x": 468.01758,
+              "y": 420.0078,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248929,
+          "proc_time_ns": 731376778058882,
+          "x": 482.9707,
+          "y": 414.37207,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248923,
+              "x": 475.13672,
+              "y": 417.66406,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248928,
+              "x": 481.9922,
+              "y": 414.73438,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248940,
+          "proc_time_ns": 731376789226018,
+          "x": 495.59473,
+          "y": 409.0957,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267248934,
+              "x": 488.3203,
+              "y": 412.39062,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248939,
+              "x": 494.64844,
+              "y": 409.46094,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248951,
+          "proc_time_ns": 731376800292424,
+          "x": 507.61816,
+          "y": 405.0791,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248945,
+              "x": 500.7129,
+              "y": 407.1172,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267248950,
+              "x": 506.77734,
+              "y": 405.35938,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248962,
+          "proc_time_ns": 731376811493570,
+          "x": 518.0996,
+          "y": 402.14258,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267248956,
+              "x": 512.0508,
+              "y": 403.60156,
+              "pressure": 1.0,
+              "size": 0.04705883
+            },
+            {
+              "event_time_ms": 267248962,
+              "x": 517.3242,
+              "y": 402.4297,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248974,
+          "proc_time_ns": 731376822622893,
+          "x": 527.4502,
+          "y": 399.82227,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267248967,
+              "x": 522.0703,
+              "y": 400.67188,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248973,
+              "x": 526.8164,
+              "y": 400.08594,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248985,
+          "proc_time_ns": 731376833690601,
+          "x": 535.5488,
+          "y": 396.9912,
+          "pressure": 1.0,
+          "size": 0.039215688,
+          "touch_major": 4.248047,
+          "touch_minor": 4.248047,
+          "history": [
+            {
+              "event_time_ms": 267248978,
+              "x": 531.03516,
+              "y": 398.32812,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267248984,
+              "x": 534.99023,
+              "y": 397.15625,
+              "pressure": 1.0,
+              "size": 0.039215688
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267248996,
+          "proc_time_ns": 731376844823465,
+          "x": 542.88965,
+          "y": 394.63574,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267248989,
+              "x": 538.9453,
+              "y": 395.98438,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267248995,
+              "x": 542.37305,
+              "y": 394.8125,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249007,
+          "proc_time_ns": 731376855983570,
+          "x": 549.23145,
+          "y": 392.19727,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249001,
+              "x": 545.8008,
+              "y": 393.64062,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267249006,
+              "x": 548.7012,
+              "y": 392.46875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249018,
+          "proc_time_ns": 731376867258361,
+          "x": 555.54785,
+          "y": 389.3623,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249012,
+              "x": 552.1289,
+              "y": 390.71094,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249017,
+              "x": 555.0293,
+              "y": 389.53906,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249029,
+          "proc_time_ns": 731376878239090,
+          "x": 562.10254,
+          "y": 387.0166,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249023,
+              "x": 558.45703,
+              "y": 388.3672,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249028,
+              "x": 561.6211,
+              "y": 387.1953,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249040,
+          "proc_time_ns": 731376889411903,
+          "x": 568.12305,
+          "y": 384.56055,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249034,
+              "x": 564.78516,
+              "y": 386.02344,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249039,
+              "x": 567.68555,
+              "y": 384.85156,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249051,
+          "proc_time_ns": 731376900482788,
+          "x": 573.9219,
+          "y": 382.33203,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249045,
+              "x": 570.32227,
+              "y": 383.09375,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249051,
+              "x": 573.4863,
+              "y": 382.5078,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249063,
+          "proc_time_ns": 731376911648205,
+          "x": 579.7803,
+          "y": 379.98145,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249056,
+              "x": 576.3867,
+              "y": 381.33594,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249062,
+              "x": 579.2871,
+              "y": 380.16406,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249074,
+          "proc_time_ns": 731376922859611,
+          "x": 586.0947,
+          "y": 378.22852,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249067,
+              "x": 582.4512,
+              "y": 378.9922,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249073,
+              "x": 585.61523,
+              "y": 378.40625,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249085,
+          "proc_time_ns": 731376933818257,
+          "x": 592.23047,
+          "y": 375.87402,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249078,
+              "x": 588.7793,
+              "y": 377.23438,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249084,
+              "x": 591.6797,
+              "y": 376.0625,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249096,
+          "proc_time_ns": 731376945039351,
+          "x": 598.54395,
+          "y": 373.62695,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249090,
+              "x": 595.1074,
+              "y": 374.89062,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249095,
+              "x": 598.0078,
+              "y": 373.71875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249107,
+          "proc_time_ns": 731376956051486,
+          "x": 605.125,
+          "y": 371.78125,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249101,
+              "x": 601.43555,
+              "y": 373.1328,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249106,
+              "x": 604.5996,
+              "y": 371.96094,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249118,
+          "proc_time_ns": 731376967312424,
+          "x": 611.47266,
+          "y": 369.43066,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249112,
+              "x": 608.02734,
+              "y": 370.78906,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249117,
+              "x": 610.92773,
+              "y": 369.6172,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249129,
+          "proc_time_ns": 731376978366851,
+          "x": 618.23926,
+          "y": 366.54297,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249123,
+              "x": 614.35547,
+              "y": 368.4453,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249129,
+              "x": 617.7832,
+              "y": 366.6875,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249140,
+          "proc_time_ns": 731376989579351,
+          "x": 625.709,
+          "y": 363.5166,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249134,
+              "x": 621.4746,
+              "y": 365.51562,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249140,
+              "x": 625.166,
+              "y": 363.7578,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249152,
+          "proc_time_ns": 731377000667163,
+          "x": 633.6592,
+          "y": 359.96484,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249145,
+              "x": 629.1211,
+              "y": 362.0,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249151,
+              "x": 633.0762,
+              "y": 360.2422,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249163,
+          "proc_time_ns": 731377011795913,
+          "x": 641.00195,
+          "y": 356.5547,
+          "pressure": 1.0,
+          "size": 0.039215688,
+          "touch_major": 4.248047,
+          "touch_minor": 4.248047,
+          "history": [
+            {
+              "event_time_ms": 267249156,
+              "x": 636.7676,
+              "y": 358.48438,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249162,
+              "x": 640.459,
+              "y": 356.72656,
+              "pressure": 1.0,
+              "size": 0.039215688
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249174,
+          "proc_time_ns": 731377023048205,
+          "x": 648.4043,
+          "y": 353.5088,
+          "pressure": 1.0,
+          "size": 0.039215688,
+          "touch_major": 4.248047,
+          "touch_minor": 4.248047,
+          "history": [
+            {
+              "event_time_ms": 267249167,
+              "x": 644.1504,
+              "y": 355.5547,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267249173,
+              "x": 647.8418,
+              "y": 353.79688,
+              "pressure": 1.0,
+              "size": 0.039215688
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249185,
+          "proc_time_ns": 731377034046382,
+          "x": 656.0342,
+          "y": 350.00098,
+          "pressure": 1.0,
+          "size": 0.043137256,
+          "touch_major": 4.6728516,
+          "touch_minor": 4.6728516,
+          "history": [
+            {
+              "event_time_ms": 267249178,
+              "x": 651.26953,
+              "y": 352.03906,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267249184,
+              "x": 655.4883,
+              "y": 350.28125,
+              "pressure": 1.0,
+              "size": 0.043137256
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249196,
+          "proc_time_ns": 731377045117840,
+          "x": 663.7207,
+          "y": 346.50586,
+          "pressure": 1.0,
+          "size": 0.04705883,
+          "touch_major": 5.0976562,
+          "touch_minor": 5.0976562,
+          "history": [
+            {
+              "event_time_ms": 267249190,
+              "x": 658.916,
+              "y": 348.52344,
+              "pressure": 1.0,
+              "size": 0.04705883
+            },
+            {
+              "event_time_ms": 267249195,
+              "x": 663.13477,
+              "y": 346.76562,
+              "pressure": 1.0,
+              "size": 0.04705883
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249207,
+          "proc_time_ns": 731377056254820,
+          "x": 671.7119,
+          "y": 343.5586,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249201,
+              "x": 667.08984,
+              "y": 345.0078,
+              "pressure": 1.0,
+              "size": 0.043137256
+            },
+            {
+              "event_time_ms": 267249206,
+              "x": 671.0449,
+              "y": 343.83594,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249218,
+          "proc_time_ns": 731377067490028,
+          "x": 680.2168,
+          "y": 340.01465,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267249212,
+              "x": 675.2637,
+              "y": 342.07812,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249217,
+              "x": 679.4824,
+              "y": 340.3203,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249230,
+          "proc_time_ns": 731377078473674,
+          "x": 688.6553,
+          "y": 336.5166,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267249223,
+              "x": 683.7012,
+              "y": 338.5625,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267249229,
+              "x": 687.9199,
+              "y": 336.8047,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249241,
+          "proc_time_ns": 731377089586278,
+          "x": 697.2656,
+          "y": 332.53418,
+          "pressure": 1.0,
+          "size": 0.027450982,
+          "touch_major": 2.9736328,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249234,
+              "x": 692.40234,
+              "y": 335.04688,
+              "pressure": 1.0,
+              "size": 0.027450982
+            },
+            {
+              "event_time_ms": 267249240,
+              "x": 696.6211,
+              "y": 332.70312,
+              "pressure": 1.0,
+              "size": 0.027450982
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249252,
+          "proc_time_ns": 731377100693570,
+          "x": 706.1123,
+          "y": 329.46387,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249245,
+              "x": 701.1035,
+              "y": 331.53125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249251,
+              "x": 705.32227,
+              "y": 329.77344,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249263,
+          "proc_time_ns": 731377111848570,
+          "x": 714.4619,
+          "y": 325.96484,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249256,
+              "x": 709.8047,
+              "y": 328.01562,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249262,
+              "x": 713.75977,
+              "y": 326.2578,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249274,
+          "proc_time_ns": 731377122990965,
+          "x": 722.5508,
+          "y": 323.13184,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249267,
+              "x": 717.9785,
+              "y": 324.5,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249273,
+              "x": 721.9336,
+              "y": 323.32812,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249285,
+          "proc_time_ns": 731377134052528,
+          "x": 729.8672,
+          "y": 320.20996,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249279,
+              "x": 725.625,
+              "y": 322.15625,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249284,
+              "x": 729.3164,
+              "y": 320.39844,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249296,
+          "proc_time_ns": 731377145266695,
+          "x": 736.4326,
+          "y": 317.2002,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249290,
+              "x": 732.74414,
+              "y": 319.22656,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249295,
+              "x": 735.9082,
+              "y": 317.46875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249307,
+          "proc_time_ns": 731377156388622,
+          "x": 743.28613,
+          "y": 314.24902,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249301,
+              "x": 739.33594,
+              "y": 315.71094,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249306,
+              "x": 742.7637,
+              "y": 314.53906,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249319,
+          "proc_time_ns": 731377167649663,
+          "x": 750.1904,
+          "y": 310.8418,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249312,
+              "x": 745.92773,
+              "y": 312.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249318,
+              "x": 749.61914,
+              "y": 311.02344,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249330,
+          "proc_time_ns": 731377178682997,
+          "x": 757.60547,
+          "y": 307.24023,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249323,
+              "x": 753.31055,
+              "y": 309.85156,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249329,
+              "x": 757.00195,
+              "y": 307.5078,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249341,
+          "proc_time_ns": 731377189838049,
+          "x": 765.209,
+          "y": 303.13965,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249334,
+              "x": 760.95703,
+              "y": 305.75,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249340,
+              "x": 764.64844,
+              "y": 303.40625,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249352,
+          "proc_time_ns": 731377200886382,
+          "x": 772.9004,
+          "y": 299.50586,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249345,
+              "x": 768.33984,
+              "y": 301.64844,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249351,
+              "x": 772.2949,
+              "y": 299.89062,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249363,
+          "proc_time_ns": 731377212086538,
+          "x": 780.2988,
+          "y": 295.39453,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249357,
+              "x": 775.9863,
+              "y": 297.54688,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249362,
+              "x": 779.67773,
+              "y": 295.78906,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249374,
+          "proc_time_ns": 731377223276694,
+          "x": 787.34863,
+          "y": 291.4043,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249368,
+              "x": 783.36914,
+              "y": 293.4453,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249373,
+              "x": 786.7969,
+              "y": 291.6875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249385,
+          "proc_time_ns": 731377234284090,
+          "x": 793.53613,
+          "y": 288.5293,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249379,
+              "x": 790.2246,
+              "y": 289.9297,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249385,
+              "x": 793.125,
+              "y": 288.7578,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249396,
+          "proc_time_ns": 731377245508622,
+          "x": 800.22266,
+          "y": 284.96094,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249390,
+              "x": 796.28906,
+              "y": 287.0,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249396,
+              "x": 799.7168,
+              "y": 285.2422,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249408,
+          "proc_time_ns": 731377256603830,
+          "x": 806.8594,
+          "y": 281.5381,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249401,
+              "x": 802.88086,
+              "y": 283.48438,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249407,
+              "x": 806.3086,
+              "y": 281.72656,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249419,
+          "proc_time_ns": 731377267717319,
+          "x": 813.19824,
+          "y": 278.4131,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249412,
+              "x": 809.7363,
+              "y": 280.5547,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249418,
+              "x": 812.6367,
+              "y": 278.79688,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249430,
+          "proc_time_ns": 731377278938049,
+          "x": 819.7832,
+          "y": 274.50586,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249423,
+              "x": 816.06445,
+              "y": 276.45312,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249429,
+              "x": 819.2285,
+              "y": 274.6953,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249441,
+          "proc_time_ns": 731377290070705,
+          "x": 826.5508,
+          "y": 272.1631,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249434,
+              "x": 822.65625,
+              "y": 273.52344,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267249440,
+              "x": 826.084,
+              "y": 272.35156,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249452,
+          "proc_time_ns": 731377301111903,
+          "x": 832.0078,
+          "y": 269.32617,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267249446,
+              "x": 828.9844,
+              "y": 271.1797,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267249451,
+              "x": 831.6211,
+              "y": 269.42188,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249463,
+          "proc_time_ns": 731377312290913,
+          "x": 837.0371,
+          "y": 266.87695,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267249457,
+              "x": 833.99414,
+              "y": 268.83594,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267249462,
+              "x": 836.63086,
+              "y": 267.07812,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249474,
+          "proc_time_ns": 731377323505861,
+          "x": 841.68555,
+          "y": 264.63672,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267249468,
+              "x": 839.0039,
+              "y": 265.90625,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267249473,
+              "x": 841.37695,
+              "y": 264.73438,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249486,
+          "proc_time_ns": 731377334467319,
+          "x": 845.6738,
+          "y": 262.7871,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249479,
+              "x": 843.22266,
+              "y": 264.14844,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249485,
+              "x": 845.33203,
+              "y": 262.97656,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249497,
+          "proc_time_ns": 731377345675861,
+          "x": 849.2617,
+          "y": 260.95312,
+          "pressure": 1.0,
+          "size": 0.039215688,
+          "touch_major": 4.248047,
+          "touch_minor": 4.248047,
+          "history": [
+            {
+              "event_time_ms": 267249490,
+              "x": 847.4414,
+              "y": 261.8047,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249496,
+              "x": 849.02344,
+              "y": 261.21875,
+              "pressure": 1.0,
+              "size": 0.039215688
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249508,
+          "proc_time_ns": 731377356836226,
+          "x": 852.74414,
+          "y": 258.5957,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249501,
+              "x": 850.60547,
+              "y": 259.46094,
+              "pressure": 1.0,
+              "size": 0.039215688
+            },
+            {
+              "event_time_ms": 267249507,
+              "x": 852.4512,
+              "y": 258.875,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249519,
+          "proc_time_ns": 731377368017528,
+          "x": 856.63965,
+          "y": 256.30957,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249513,
+              "x": 854.2969,
+              "y": 257.1172,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249518,
+              "x": 856.40625,
+              "y": 256.53125,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249530,
+          "proc_time_ns": 731377379155965,
+          "x": 860.6084,
+          "y": 253.44434,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249524,
+              "x": 858.25195,
+              "y": 254.77344,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249529,
+              "x": 860.3613,
+              "y": 253.60156,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249541,
+          "proc_time_ns": 731377390225132,
+          "x": 864.60645,
+          "y": 250.59082,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249535,
+              "x": 862.20703,
+              "y": 252.42969,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249540,
+              "x": 864.3164,
+              "y": 250.67188,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249552,
+          "proc_time_ns": 731377401316642,
+          "x": 868.54785,
+          "y": 248.73828,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249546,
+              "x": 866.4258,
+              "y": 250.08594,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249551,
+              "x": 868.2715,
+              "y": 248.91406,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249563,
+          "proc_time_ns": 731377412529924,
+          "x": 872.43945,
+          "y": 246.38086,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249557,
+              "x": 870.1172,
+              "y": 247.74219,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249563,
+              "x": 872.22656,
+              "y": 246.57031,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249575,
+          "proc_time_ns": 731377423591069,
+          "x": 875.9951,
+          "y": 244.62305,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249568,
+              "x": 873.5449,
+              "y": 245.39844,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249574,
+              "x": 875.6543,
+              "y": 244.8125,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249586,
+          "proc_time_ns": 731377434744246,
+          "x": 879.30273,
+          "y": 242.97266,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249579,
+              "x": 877.7637,
+              "y": 243.64062,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249585,
+              "x": 879.08203,
+              "y": 243.05469,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249597,
+          "proc_time_ns": 731377445874299,
+          "x": 882.2119,
+          "y": 241.71289,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249590,
+              "x": 880.66406,
+              "y": 242.46875,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249596,
+              "x": 881.9824,
+              "y": 241.88281,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249608,
+          "proc_time_ns": 731377457028674,
+          "x": 884.8252,
+          "y": 240.61914,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267249601,
+              "x": 883.56445,
+              "y": 240.71094,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249607,
+              "x": 884.61914,
+              "y": 240.71094,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249619,
+          "proc_time_ns": 731377468121069,
+          "x": 887.41113,
+          "y": 239.45312,
+          "pressure": 1.0,
+          "size": 0.037254903,
+          "touch_major": 4.6728516,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249613,
+              "x": 885.9375,
+              "y": 240.125,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267249618,
+              "x": 887.25586,
+              "y": 239.53906,
+              "pressure": 1.0,
+              "size": 0.037254903
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249630,
+          "proc_time_ns": 731377479251955,
+          "x": 889.44824,
+          "y": 238.36719,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249624,
+              "x": 888.31055,
+              "y": 238.95312,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267249629,
+              "x": 889.36523,
+              "y": 238.36719,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249641,
+          "proc_time_ns": 731377490450496,
+          "x": 890.75195,
+          "y": 238.36719,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249635,
+              "x": 889.8926,
+              "y": 238.36719,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249641,
+              "x": 890.6836,
+              "y": 238.36719,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249652,
+          "proc_time_ns": 731377501490653,
+          "x": 891.8135,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.03529412,
+          "touch_major": 3.8232422,
+          "touch_minor": 3.8232422,
+          "history": [
+            {
+              "event_time_ms": 267249646,
+              "x": 891.21094,
+              "y": 238.36719,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249652,
+              "x": 891.7383,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03529412
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249664,
+          "proc_time_ns": 731377512697684,
+          "x": 892.5713,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249657,
+              "x": 892.2656,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03529412
+            },
+            {
+              "event_time_ms": 267249663,
+              "x": 892.5293,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249675,
+          "proc_time_ns": 731377523800757,
+          "x": 893.3623,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249668,
+              "x": 893.05664,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249686,
+          "proc_time_ns": 731377534778413,
+          "x": 894.47266,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249679,
+              "x": 893.584,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249685,
+              "x": 894.375,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249697,
+          "proc_time_ns": 731377545933413,
+          "x": 896.2334,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267249690,
+              "x": 894.90234,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267249696,
+              "x": 895.95703,
+              "y": 237.78125,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267249701,
+          "proc_time_ns": 731377551659142,
+          "x": 897.53906,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.019607844,
+          "touch_major": 2.1240234,
+          "touch_minor": 2.1240234,
+          "history": []
+        },
+        {
+          "action": "up",
+          "event_time_ms": 267249707,
+          "proc_time_ns": 731377552254455,
+          "x": 897.53906,
+          "y": 237.78125,
+          "pressure": 1.0,
+          "size": 0.019607844,
+          "touch_major": 2.1240234,
+          "touch_minor": 2.1240234,
+          "history": []
+        }
+      ]
+    },
+    {
+      "gesture_id": 3,
+      "events": [
+        {
+          "action": "down",
+          "event_time_ms": 267250936,
+          "proc_time_ns": 731378786059767,
+          "x": 245.21484,
+          "y": 1717.8594,
+          "pressure": 1.0,
+          "size": 0.009803922,
+          "touch_major": 1.6992188,
+          "touch_minor": 0.4248047,
+          "history": []
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267250941,
+          "proc_time_ns": 731378790574819,
+          "x": 245.21484,
+          "y": 1717.8594,
+          "pressure": 1.0,
+          "size": 0.033333335,
+          "touch_major": 4.248047,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267250941,
+              "x": 245.21484,
+              "y": 1717.8594,
+              "pressure": 1.0,
+              "size": 0.033333335
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267250965,
+          "proc_time_ns": 731378814336902,
+          "x": 262.62305,
+          "y": 1681.752,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267250953,
+              "x": 245.74219,
+              "y": 1716.1016,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267250959,
+              "x": 250.22461,
+              "y": 1707.8984,
+              "pressure": 1.0,
+              "size": 0.03137255
+            },
+            {
+              "event_time_ms": 267250965,
+              "x": 260.24414,
+              "y": 1686.8047,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267250977,
+          "proc_time_ns": 731378825534194,
+          "x": 309.04395,
+          "y": 1583.6475,
+          "pressure": 1.0,
+          "size": 0.021568628,
+          "touch_major": 2.9736328,
+          "touch_minor": 1.6992188,
+          "history": [
+            {
+              "event_time_ms": 267250970,
+              "x": 278.17383,
+              "y": 1648.7188,
+              "pressure": 1.0,
+              "size": 0.029411767
+            },
+            {
+              "event_time_ms": 267250976,
+              "x": 304.01367,
+              "y": 1593.6406,
+              "pressure": 1.0,
+              "size": 0.021568628
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267250988,
+          "proc_time_ns": 731378836664246,
+          "x": 379.13184,
+          "y": 1449.5137,
+          "pressure": 1.0,
+          "size": 0.027450982,
+          "touch_major": 2.9736328,
+          "touch_minor": 2.9736328,
+          "history": [
+            {
+              "event_time_ms": 267250981,
+              "x": 338.81836,
+              "y": 1524.5,
+              "pressure": 1.0,
+              "size": 0.033333335
+            },
+            {
+              "event_time_ms": 267250987,
+              "x": 374.41406,
+              "y": 1458.2891,
+              "pressure": 1.0,
+              "size": 0.027450982
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267250999,
+          "proc_time_ns": 731378847890131,
+          "x": 466.59082,
+          "y": 1308.3838,
+          "pressure": 1.0,
+          "size": 0.03137255,
+          "touch_major": 3.3984375,
+          "touch_minor": 3.3984375,
+          "history": [
+            {
+              "event_time_ms": 267250992,
+              "x": 414.22852,
+              "y": 1389.7344,
+              "pressure": 1.0,
+              "size": 0.027450982
+            },
+            {
+              "event_time_ms": 267250998,
+              "x": 459.84375,
+              "y": 1318.25,
+              "pressure": 1.0,
+              "size": 0.03137255
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267251010,
+          "proc_time_ns": 731378858948204,
+          "x": 576.5283,
+          "y": 1155.7139,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267251003,
+              "x": 510.73242,
+              "y": 1243.8359,
+              "pressure": 1.0,
+              "size": 0.027450982
+            },
+            {
+              "event_time_ms": 267251009,
+              "x": 567.1582,
+              "y": 1167.6641,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267251021,
+          "proc_time_ns": 731378869993725,
+          "x": 700.7754,
+          "y": 1005.1387,
+          "pressure": 1.0,
+          "size": 0.029411767,
+          "touch_major": 3.8232422,
+          "touch_minor": 2.5488281,
+          "history": [
+            {
+              "event_time_ms": 267251015,
+              "x": 627.80273,
+              "y": 1090.3203,
+              "pressure": 1.0,
+              "size": 0.037254903
+            },
+            {
+              "event_time_ms": 267251020,
+              "x": 692.1387,
+              "y": 1014.7344,
+              "pressure": 1.0,
+              "size": 0.029411767
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267251032,
+          "proc_time_ns": 731378881183308,
+          "x": 831.93164,
+          "y": 864.1699,
+          "pressure": 1.0,
+          "size": 0.019607844,
+          "touch_major": 2.5488281,
+          "touch_minor": 1.6992188,
+          "history": [
+            {
+              "event_time_ms": 267251026,
+              "x": 757.00195,
+              "y": 942.66406,
+              "pressure": 1.0,
+              "size": 0.019607844
+            },
+            {
+              "event_time_ms": 267251031,
+              "x": 821.60156,
+              "y": 874.6953,
+              "pressure": 1.0,
+              "size": 0.019607844
+            }
+          ]
+        },
+        {
+          "action": "move",
+          "event_time_ms": 267251042,
+          "proc_time_ns": 731378891675340,
+          "x": 980.06836,
+          "y": 717.0781,
+          "pressure": 1.0,
+          "size": 0.003921569,
+          "touch_major": 0.4248047,
+          "touch_minor": 0.4248047,
+          "history": [
+            {
+              "event_time_ms": 267251037,
+              "x": 881.9824,
+              "y": 813.1719,
+              "pressure": 1.0,
+              "size": 0.003921569
+            }
+          ]
+        },
+        {
+          "action": "up",
+          "event_time_ms": 267251047,
+          "proc_time_ns": 731378892206486,
+          "x": 980.06836,
+          "y": 717.0781,
+          "pressure": 1.0,
+          "size": 0.003921569,
+          "touch_major": 0.4248047,
+          "touch_minor": 0.4248047,
+          "history": []
+        }
+      ]
+    }
+  ]
+}

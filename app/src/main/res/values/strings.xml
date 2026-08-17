@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TouchRecorderMini</string>
+    <string name="export">Экспорт</string>
+    <string name="share">Поделиться</string>
+    <string name="stats_format">события: %1$d / исторических сэмплов: %2$d</string>
+    <string name="share_title">Отправить сессию</string>
+    <string name="export_ok">Сохранено в Download/%1$s\nжестов: %2$d, событий: %3$d, сэмплов: %4$d</string>
+    <string name="export_error">Ошибка экспорта: %1$s</string>
+</resources>
